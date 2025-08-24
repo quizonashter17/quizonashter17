@@ -1,7 +1,7 @@
 ## Hi I'am Ashter Quizon 👋
 
-  🎓 About Me--
-  💻 BSIT Student at Laguna State Polytechnic University
+  🎓 About Me <br>
+  💻 BSIT Student at Laguna State Polytechnic University <br>
   🌱 Currently learning Python, Flask, SQL, Flutter, and Dart
   🎯 Goal: To become a skilled Web and Mobile Application Developer
   📚 Interested in Software Development, Cloud Computing, and UI/UX Design
